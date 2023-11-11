@@ -1,0 +1,23 @@
+.pe{
+    text-align: center;
+    padding: 0.5%;
+    font-weight: bold;
+}
+.barra{
+    padding: 0px;
+    margin: 0px;
+}
+.img-controle{
+    max-height: 600px !important;
+}
+.divisao{
+ padding: 10px;
+
+}
+.produtos{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.contato{
+    background-color: rgb(40, 83, 40);
+}
